@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-bricolage: "Bricolage Grotesque", sans-serif;
+}
+
+/* Global font application */
+* {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
